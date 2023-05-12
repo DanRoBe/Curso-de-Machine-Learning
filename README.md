@@ -27,3 +27,7 @@ Prophet - Predecir el valor de Bitcoin
 
 M5 - 07 - Numpy Array 1D
 
+##Día 4 - Jueves
+SpaceX2 - 5 - Interactive Visual Analytics con Folium
+
+SpaceX2 - 6 - Machine Learning Predicciones
