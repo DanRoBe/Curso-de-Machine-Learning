@@ -31,3 +31,6 @@ M5 - 07 - Numpy Array 1D
 SpaceX2 - 5 - Interactive Visual Analytics con Folium
 
 SpaceX2 - 6 - Machine Learning Predicciones
+
+##Día 5 - Viernes
+M5 - 10 - Matplotlib y Seaborn
