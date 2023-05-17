@@ -34,3 +34,8 @@ SpaceX2 - 6 - Machine Learning Predicciones
 
 ##Día 5 - Viernes
 M5 - 10 - Matplotlib y Seaborn
+
+##Día 6 - Martes
+M4 - 06 - Clases
+M5 - 04 - Funciones
+SpaceX - 2 - EDA
