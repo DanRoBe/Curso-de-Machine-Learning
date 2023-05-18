@@ -45,3 +45,7 @@ M5 - 10 - Matplotlib y Seaborn
 M4 - 06 - Clases
 M5 - 04 - Funciones
 SpaceX - 2 - EDA
+
+##Día 7 - Miércoles
+
+M6 - 04 - Programación FUncional
