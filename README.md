@@ -1,6 +1,6 @@
 # Curso-de-Machine-Learning
 
-##Día 1 - Lunes
+## Día 1 - Lunes
 
 M5 - 01 - Python Notebook
 
@@ -12,7 +12,7 @@ M5 - 04 - Funciones
 
 M5 - 05 - Clases
 
-##Día 2 - Martes
+## Día 2 - Martes
 
 SpaceX - 1 - Data Collection Api
 
@@ -20,7 +20,7 @@ SpaceX - 4 - Data Visualization
 
 M5 - 10 - Pandas
 
-##Día 3 - Miércoles
+## Día 3 - Miércoles
 
 M5 - 06 - Introducción a Machine Learning con Scikit-Learn
 
@@ -30,27 +30,27 @@ Prophet - Predecir el valor de Bitcoin
 
 M5 - 07 - Numpy Array 1D
 
-##Día 4 - Jueves
+## Día 4 - Jueves
 
 SpaceX2 - 5 - Interactive Visual Analytics con Folium
 
 SpaceX2 - 6 - Machine Learning Predicciones
 
-##Día 5 - Viernes
+## Día 5 - Viernes
 
 M5 - 10 - Matplotlib y Seaborn
 
-##Día 6 - Martes
+## Día 6 - Martes
 
 M4 - 06 - Clases
 M5 - 04 - Funciones
 SpaceX - 2 - EDA
 
-##Día 7 - Miércoles
+## Día 7 - Miércoles
 
 M6 - 04 - Programación FUncional
 
-##Día 8 - Jueves
+## Día 8 - Jueves
 
 M6 - 05 - SparkSession Teoría
 M6 - 06 - Primer RDD Teoría
